@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: b2f2c91bc7fd77a4d8efca52e291ce4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7140418674251923426
+    second: attack 1 and 2_0
+  - first:
+      213: -7140619361066638255
+    second: attack 1 and 2_1
+  - first:
+      213: 5209750121160429988
+    second: attack 1 and 2_2
+  - first:
+      213: 6159608066220970417
+    second: attack 1 and 2_3
+  - first:
+      213: -6243439698988914808
+    second: attack 1 and 2_4
+  - first:
+      213: 6456916036306602815
+    second: attack 1 and 2_5
+  - first:
+      213: 254943705569974657
+    second: attack 1 and 2_6
+  - first:
+      213: 188473244636348675
+    second: attack 1 and 2_7
+  - first:
+      213: 4013947927584908971
+    second: attack 1 and 2_8
+  - first:
+      213: -4132570398493960635
+    second: attack 1 and 2_9
+  - first:
+      213: -2703657362078746611
+    second: attack 1 and 2_10
+  - first:
+      213: 1850791141219872852
+    second: attack 1 and 2_11
+  - first:
+      213: -7641351452781031377
+    second: attack 1 and 2_12
+  - first:
+      213: 4131786981124370517
+    second: attack 1 and 2_13
+  - first:
+      213: 3135169010879091697
+    second: attack 1 and 2_14
+  - first:
+      213: -7343958564085909060
+    second: attack 1 and 2_15
+  - first:
+      213: 1710569177035785088
+    second: attack 1 and 2_16
+  - first:
+      213: -5948638120243073738
+    second: attack 1 and 2_17
+  - first:
+      213: 8125762706265193345
+    second: attack 1 and 2_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b6a578be3c4eb47a04fabe90a912f6
+      internalID: 1615789720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1819
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf86edd9b62cdd4395fac11dfa66830
+      internalID: -1331491993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705032572f75ce84297e61f49369b177
+      internalID: -1674186526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507ae83aff156c4d93b1b40703d04ce
+      internalID: 624950706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45253f6a07002fd4cb50cdd8bb7d7c74
+      internalID: 1089654147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1391
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43e0bb7e2eb7694b8dba7531da2575a
+      internalID: 798043263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6befa94313abe4245aa429a85d79999d
+      internalID: -546743173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1177
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584e37d125fef045b172f1736acd647
+      internalID: -2000685050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e598783e40ff946aac11feef7f5774
+      internalID: -802513275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b25cc1c94036429a99b3c3f3412db
+      internalID: 869200944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa8ff9e135636a4bbee8f59462303c5
+      internalID: -330565217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577d9fe476cbb649a4782a572c6cf9d
+      internalID: -1382140510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbc40e810358d4e87167ce45415950
+      internalID: -202079687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4ac191c30fbc418c08288bdf30cc8
+      internalID: -1033661166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886197395eed17445bbafa18d1b715f4
+      internalID: 1210009073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae69608e6e06e4ea63aaf1d3684b16
+      internalID: -760462492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e436a7a762cc284097115d0dd8d3b85
+      internalID: -1832090003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704bbcdf1db7a742b575680250ed74f
+      internalID: -311523874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack 1 and 2 reverse_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 107
+      alignment: 9
+      pivot: {x: 0.65, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b95cd60b76cc1a4d9959dc5a827fb90
+      internalID: -1597344666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5797adbabe2b07940acd11f45af905e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      attack 1 and 2 reverse_5: 798043263
+      attack 1 and 2 reverse_4: 1089654147
+      attack 1 and 2 reverse_11: -1382140510
+      attack 1 and 2 reverse_14: 1210009073
+      attack 1 and 2 reverse_6: -546743173
+      attack 1 and 2 reverse_3: 624950706
+      attack 1 and 2 reverse_7: -2000685050
+      attack 1 and 2 reverse_1: -1331491993
+      attack 1 and 2 reverse_18: -1597344666
+      attack 1 and 2 reverse_12: -202079687
+      attack 1 and 2 reverse_17: -311523874
+      attack 1 and 2 reverse_0: 1615789720
+      attack 1 and 2 reverse_15: -760462492
+      attack 1 and 2 reverse_16: -1832090003
+      attack 1 and 2 reverse_8: -802513275
+      attack 1 and 2 reverse_2: -1674186526
+      attack 1 and 2 reverse_9: 869200944
+      attack 1 and 2 reverse_10: -330565217
+      attack 1 and 2 reverse_13: -1033661166
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

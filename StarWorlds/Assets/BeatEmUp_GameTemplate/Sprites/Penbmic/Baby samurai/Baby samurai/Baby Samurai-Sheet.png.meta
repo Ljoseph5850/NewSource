@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: 38aced2d6b5663f48856d2a299345bad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4912056145332020821
+    second: Baby Samurai-Sheet_0
+  - first:
+      213: -1687537169103243043
+    second: Baby Samurai-Sheet_1
+  - first:
+      213: 7237922640331354204
+    second: Baby Samurai-Sheet_2
+  - first:
+      213: -2125703508699825730
+    second: Baby Samurai-Sheet_3
+  - first:
+      213: 5106318559338476954
+    second: Baby Samurai-Sheet_4
+  - first:
+      213: -3127857121572223926
+    second: Baby Samurai-Sheet_5
+  - first:
+      213: 9041862938031959053
+    second: Baby Samurai-Sheet_6
+  - first:
+      213: 6685165234836029879
+    second: Baby Samurai-Sheet_7
+  - first:
+      213: 743423681611996150
+    second: Baby Samurai-Sheet_8
+  - first:
+      213: -1797448125321927402
+    second: Baby Samurai-Sheet_9
+  - first:
+      213: 7880527377694152320
+    second: Baby Samurai-Sheet_10
+  - first:
+      213: 2821046384726016992
+    second: Baby Samurai-Sheet_11
+  - first:
+      213: 7850363075348237031
+    second: Baby Samurai-Sheet_12
+  - first:
+      213: 7499819036456213007
+    second: Baby Samurai-Sheet_13
+  - first:
+      213: 810085045679122232
+    second: Baby Samurai-Sheet_14
+  - first:
+      213: -4562289912649587609
+    second: Baby Samurai-Sheet_15
+  - first:
+      213: -6250131705313956023
+    second: Baby Samurai-Sheet_16
+  - first:
+      213: -2440374515525642394
+    second: Baby Samurai-Sheet_17
+  - first:
+      213: -6100074232752518771
+    second: Baby Samurai-Sheet_18
+  - first:
+      213: 2330605374810974305
+    second: Baby Samurai-Sheet_19
+  - first:
+      213: -8198463802499345151
+    second: Baby Samurai-Sheet_20
+  - first:
+      213: 2977241159218758129
+    second: Baby Samurai-Sheet_21
+  - first:
+      213: 1963187041693645908
+    second: Baby Samurai-Sheet_22
+  - first:
+      213: -8412723353818165966
+    second: Baby Samurai-Sheet_23
+  - first:
+      213: 8229108360743222625
+    second: Baby Samurai-Sheet_24
+  - first:
+      213: 3440204927852140350
+    second: Baby Samurai-Sheet_25
+  - first:
+      213: 5972364994641064949
+    second: Baby Samurai-Sheet_26
+  - first:
+      213: -4033814812529586963
+    second: Baby Samurai-Sheet_27
+  - first:
+      213: 9102626542781290276
+    second: Baby Samurai-Sheet_28
+  - first:
+      213: -4079040042039771959
+    second: Baby Samurai-Sheet_29
+  - first:
+      213: 5837299448844159555
+    second: Baby Samurai-Sheet_30
+  - first:
+      213: -6544259256135317785
+    second: Baby Samurai-Sheet_31
+  - first:
+      213: -6544820461038132887
+    second: Baby Samurai-Sheet_32
+  - first:
+      213: -1481519581448693703
+    second: Baby Samurai-Sheet_33
+  - first:
+      213: -1678613606980194051
+    second: Baby Samurai-Sheet_34
+  - first:
+      213: -6105595738693150251
+    second: Baby Samurai-Sheet_35
+  - first:
+      213: 3289120369013941909
+    second: Baby Samurai-Sheet_36
+  - first:
+      213: -3837405225749962321
+    second: Baby Samurai-Sheet_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d5b406fed4dbb0800000000000000
+      internalID: -4912056145332020821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8355ab2e9a498e0800000000000000
+      internalID: -1687537169103243043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5035b01b44427460800000000000000
+      internalID: 7237922640331354204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9352adbebff72e0800000000000000
+      internalID: -2125703508699825730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95ba5fdca94dd640800000000000000
+      internalID: 5106318559338476954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a440380258e9794d0800000000000000
+      internalID: -3127857121572223926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c2a21bf662b7d70800000000000000
+      internalID: 9041862938031959053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1413f8c5a76cc50800000000000000
+      internalID: 6685165234836029879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb981c46eb215a00800000000000000
+      internalID: 743423681611996150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615aefb047e2e07e0800000000000000
+      internalID: -1797448125321927402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086533ea5e14d5d60800000000000000
+      internalID: 7880527377694152320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e38e788dbe562720800000000000000
+      internalID: 2821046384726016992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea89ffbf9712fc60800000000000000
+      internalID: 7850363075348237031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5fab8da5b41860800000000000000
+      internalID: 7499819036456213007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376f899e000e3b00800000000000000
+      internalID: 810085045679122232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7646c2a1f7d7fa0c0800000000000000
+      internalID: -4562289912649587609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fea5124521349a0800000000000000
+      internalID: -6250131705313956023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6679d2bce4c022ed0800000000000000
+      internalID: -2440374515525642394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89c54d0ece285ba0800000000000000
+      internalID: -6100074232752518771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16869358d39f75020800000000000000
+      internalID: 2330605374810974305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d024eb94393e80800000000000000
+      internalID: -8198463802499345151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f108e96f09415920800000000000000
+      internalID: 2977241159218758129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cbcc78634ae3b10800000000000000
+      internalID: 1963187041693645908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0906aea0004b80800000000000000
+      internalID: -8412723353818165966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dfb44547aa33270800000000000000
+      internalID: 8229108360743222625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37dc27a7201ebf20800000000000000
+      internalID: 3440204927852140350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3fe86d15a12e250800000000000000
+      internalID: 5972364994641064949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0771dcc20508c0800000000000000
+      internalID: -4033814812529586963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4275585ec96035e70800000000000000
+      internalID: 9102626542781290276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccff9581b65467c0800000000000000
+      internalID: -4079040042039771959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a80ffdbe0420150800000000000000
+      internalID: 5837299448844159555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60ef721ee1e25a0800000000000000
+      internalID: -6544259256135317785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612d1577702c25a0800000000000000
+      internalID: -6544820461038132887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93817f34ac5907be0800000000000000
+      internalID: -1481519581448693703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0fec071dd54b8e0800000000000000
+      internalID: -1678613606980194051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95e054601944ba0800000000000000
+      internalID: -6105595738693150251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e3929c8d45ad20800000000000000
+      internalID: 3289120369013941909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baby Samurai-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.09, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa122f3574ccebac0800000000000000
+      internalID: -3837405225749962321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 662e4c9f6b94fad4bb489b3d134bf713
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Baby Samurai-Sheet_4: 5106318559338476954
+      Baby Samurai-Sheet_24: 8229108360743222625
+      Baby Samurai-Sheet_13: 7499819036456213007
+      Baby Samurai-Sheet_29: -4079040042039771959
+      Baby Samurai-Sheet_5: -3127857121572223926
+      Baby Samurai-Sheet_33: -1481519581448693703
+      Baby Samurai-Sheet_14: 810085045679122232
+      Baby Samurai-Sheet_23: -8412723353818165966
+      Baby Samurai-Sheet_8: 743423681611996150
+      Baby Samurai-Sheet_21: 2977241159218758129
+      Baby Samurai-Sheet_25: 3440204927852140350
+      Baby Samurai-Sheet_2: 7237922640331354204
+      Baby Samurai-Sheet_36: 3289120369013941909
+      Baby Samurai-Sheet_15: -4562289912649587609
+      Baby Samurai-Sheet_30: 5837299448844159555
+      Baby Samurai-Sheet_37: -3837405225749962321
+      Baby Samurai-Sheet_6: 9041862938031959053
+      Baby Samurai-Sheet_34: -1678613606980194051
+      Baby Samurai-Sheet_12: 7850363075348237031
+      Baby Samurai-Sheet_11: 2821046384726016992
+      Baby Samurai-Sheet_28: 9102626542781290276
+      Baby Samurai-Sheet_20: -8198463802499345151
+      Baby Samurai-Sheet_31: -6544259256135317785
+      Baby Samurai-Sheet_16: -6250131705313956023
+      Baby Samurai-Sheet_1: -1687537169103243043
+      Baby Samurai-Sheet_19: 2330605374810974305
+      Baby Samurai-Sheet_22: 1963187041693645908
+      Baby Samurai-Sheet_0: -4912056145332020821
+      Baby Samurai-Sheet_27: -4033814812529586963
+      Baby Samurai-Sheet_10: 7880527377694152320
+      Baby Samurai-Sheet_17: -2440374515525642394
+      Baby Samurai-Sheet_32: -6544820461038132887
+      Baby Samurai-Sheet_35: -6105595738693150251
+      Baby Samurai-Sheet_7: 6685165234836029879
+      Baby Samurai-Sheet_9: -1797448125321927402
+      Baby Samurai-Sheet_3: -2125703508699825730
+      Baby Samurai-Sheet_18: -6100074232752518771
+      Baby Samurai-Sheet_26: 5972364994641064949
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

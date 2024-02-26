@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 969a8b7fb1f3367409419a3f3ecaaa46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3596127578730904331
+    second: Run Attack_0
+  - first:
+      213: -2580065459685122289
+    second: Run Attack_1
+  - first:
+      213: 583706078793672285
+    second: Run Attack_2
+  - first:
+      213: -8974098889800354967
+    second: Run Attack_3
+  - first:
+      213: 5504088128478166110
+    second: Run Attack_4
+  - first:
+      213: 937382652939665353
+    second: Run Attack_5
+  - first:
+      213: -2140980383261187700
+    second: Run Attack_6
+  - first:
+      213: -2441024966563579177
+    second: Run Attack_7
+  - first:
+      213: -6876154985287369655
+    second: Run Attack_8
+  - first:
+      213: -8883211229426947526
+    second: Run Attack_9
+  - first:
+      213: -2104489365237809110
+    second: Run Attack_10
+  - first:
+      213: 7993874769801080662
+    second: Run Attack_11
+  - first:
+      213: 1107981733335941517
+    second: Run Attack_12
+  - first:
+      213: 255548247280990862
+    second: Run Attack_13
+  - first:
+      213: 8287586655313157484
+    second: Run Attack_14
+  - first:
+      213: -4438709920732163527
+    second: Run Attack_15
+  - first:
+      213: 8660216124197385791
+    second: Run Attack_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run Attack reverse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa9ecfbf6bb91a428cc0b762d146a09
+      internalID: 1556266140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d164afe18a2b4ea613689200ed84c
+      internalID: 1071388340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe291d97c68ab944b56e6cf15e23b3b
+      internalID: 40797185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e99496019f692419c42c5924bed5f0
+      internalID: 1212168792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab20fe4fa1c5094e97b6c4690cd7f93
+      internalID: 1176043458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e4428c57b899448460b0ed2b22465
+      internalID: 502460571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d192ed53bc3144e9907d84a9810d7d
+      internalID: 1014518696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e601a0f8faa14d973390b740c9901
+      internalID: 137935048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c621fd9a03f0143a6fcf1321ad6ade
+      internalID: -1178487602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd6f234e594b14f8a76f0bf1674cd6
+      internalID: -1483904366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bcd2d3ac4f3c4499f56573528e2095
+      internalID: -382781000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa51f55315e5b40887b6cef05a73b2
+      internalID: -216348299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5d628957df76843a8f2fe361940f72
+      internalID: 2097684357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535fa3b05d666314a857eaef0e5392fa
+      internalID: 1320078438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85315dd26a7404e975424dfad0aa40
+      internalID: -977527715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d3dc126ee6b74c870fc6e5ae5c978
+      internalID: 699736297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run Attack reverse_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 145
+        height: 48
+      alignment: 9
+      pivot: {x: 0.76, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655111e8254d7e041aa5256979cf5e47
+      internalID: 1266966542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b47574e86b440204c9706f40cbcc9597
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Run Attack reverse_4: 1176043458
+      Run Attack reverse_11: -216348299
+      Run Attack reverse_2: 40797185
+      Run Attack reverse_1: 1071388340
+      Run Attack reverse_14: -977527715
+      Run Attack reverse_7: 137935048
+      Run Attack reverse_8: -1178487602
+      Run Attack reverse_10: -382781000
+      Run Attack reverse_6: 1014518696
+      Run Attack reverse_9: -1483904366
+      Run Attack reverse_0: 1556266140
+      Run Attack reverse_3: 1212168792
+      Run Attack reverse_15: 699736297
+      Run Attack reverse_5: 502460571
+      Run Attack reverse_13: 1320078438
+      Run Attack reverse_16: 1266966542
+      Run Attack reverse_12: 2097684357
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
